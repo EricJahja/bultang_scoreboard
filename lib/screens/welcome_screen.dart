@@ -20,7 +20,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  'BADMINTON SCOREBOARD',
+                  'BADMINTON SCOREBOARD TESTER',
                   style: mainTitleTextStyle,
                 ),
                 SizedBox(
