@@ -1,5 +1,5 @@
 {
-  "name": "bultangapp",
+  "name": "bultang_scoreboard",
   "version": "1.0.0",
   "description": "A new Flutter project.",
   "main": "index.js",
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DLM-Consultancy/BultangApp.git"
+    "url": "git+https://github.com/EricJahja/bultang_scoreboard.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DLM-Consultancy/BultangApp/issues"
+    "url": "https://github.com/EricJahja/bultang_scoreboard/issues"
   },
-  "homepage": "https://github.com/DLM-Consultancy/BultangApp#readme"
+  "homepage": "https://github.com/EricJahja/bultang_scoreboard#readme"
 }
