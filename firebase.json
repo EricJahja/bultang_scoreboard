@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "build/scoring-bultang-12171",
+    "public": "bultang_scoreboard/build/web",
     "ignore": [
       "firebase.json",
       "**/.*",
